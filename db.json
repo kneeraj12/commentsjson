@@ -4,19 +4,19 @@
                     "id" :1,
                     "username" : "Jack",
                     "userimage" : "https://react.semantic-ui.com/images/avatar/small/matt.jpg",
-                    "body" :'This is my first comment',
+                    "body" :"This is my first comment",
                     "children": [
                         {
                             "id" :1,
                             "username" : "Larry",
                             "userimage" : "https://react.semantic-ui.com/images/avatar/small/elliot.jpg",
-                            "body" :'This is my first child comment'
+                            "body" :"This is my first child comment"
                         },
                         {
                             "id" :2,
                             "username" : "Henry",
                             "userimage" : "https://react.semantic-ui.com/images/avatar/small/jenny.jpg",
-                            "body" :'This is my first child comment'
+                            "body" :"This is my first child comment"
                         }
                     ]
                 }
