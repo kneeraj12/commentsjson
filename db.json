@@ -1,42 +1,22 @@
 {
-            comments : [
+            "comments" : [
                 {
-                    id :1,
-                    username : "Jack",
-                    userimage : "https://react.semantic-ui.com/images/avatar/small/matt.jpg",
-                    body :'This is my first comment',
-                    children: [
+                    "id" :1,
+                    "username" : "Jack",
+                    "userimage" : "https://react.semantic-ui.com/images/avatar/small/matt.jpg",
+                    "body" :'This is my first comment',
+                    "children": [
                         {
-                            id :1,
-                            username : "Larry",
-                            userimage : "https://react.semantic-ui.com/images/avatar/small/elliot.jpg",
-                            body :'This is my first child comment'
+                            "id" :1,
+                            "username" : "Larry",
+                            "userimage" : "https://react.semantic-ui.com/images/avatar/small/elliot.jpg",
+                            "body" :'This is my first child comment'
                         },
                         {
-                            id :2,
-                            username : "Henry",
-                            userimage : "https://react.semantic-ui.com/images/avatar/small/jenny.jpg",
-                            body :'This is my first child comment'
-                        }
-                    ]
-                },
-                {
-                    id :2,
-                    username : "Mark",
-                    userimage : "https://react.semantic-ui.com/images/avatar/small/joe.jpg",
-                    body :'This is my second comment',
-                    children: [
-                        {
-                            id :3,
-                            username : "Harry",
-                            userimage : "https://react.semantic-ui.com/images/avatar/small/matt.jpg",
-                            body :'This is my second child comment'
-                        },
-                        {
-                            id :4,
-                            username : "Stephen",
-                            userimage : "https://react.semantic-ui.com/images/avatar/small/elliot.jpg",
-                            body :'This is my second child comment'
+                            "id" :2,
+                            "username" : "Henry",
+                            "userimage" : "https://react.semantic-ui.com/images/avatar/small/jenny.jpg",
+                            "body" :'This is my first child comment'
                         }
                     ]
                 }
